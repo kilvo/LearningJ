@@ -1,2 +1,2 @@
 # LearningJ
-Use GitHub to help learn Jn language (jsoftware.com)
+Use GitHub to help learn J language (jsoftware.com)
